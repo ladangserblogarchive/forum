@@ -1,6 +1,8 @@
 # Forum Diskusi Ladangser
 🌴 Berdiskusi Santai
 
+Link Forum Diskusi : [https://github.com/ladangser/forum/discussions](https://github.com/ladangser/forum/discussions)
+
 ## Aturan
 - Bertanya atau berdiskusi dengan santai tapi sopan
 - Panggil sesama dengan sebutan sehari-hari (Gaya Lokal)
